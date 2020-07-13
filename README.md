@@ -7,6 +7,7 @@ Version used: 5.30.0 with Spark 2.4.5 and Scala 2.11.12
 
 ## Download the latest snowflake-spark-connector and snowflake-jdbc drivers
 For this example, I downloaded the latest snowflake-spark-connector and snowflake-jdbc driver jars on to the EMR cluster.
+
 We could also refer to the corresponding packages from the maven repository
 
 ## Spark Command line interface for development
