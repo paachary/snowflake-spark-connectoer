@@ -10,7 +10,8 @@ For this example, I downloaded the latest snowflake-spark-connector and snowflak
 We could also refer to the corresponding packages from the maven repository
 
 ## Spark Command line interface for development
-For this example, I used the Spark command line interface with Scala, by issuing 
+For this example, I used the Spark command line interface with Scala, by issuing :
+
     spark-shell --jars snowflake-jdbc-3.12.8.jar,spark-snowflake_2.11-2.8.0-spark_2.4.jar
 
 
